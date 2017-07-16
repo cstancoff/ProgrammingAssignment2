@@ -1,6 +1,6 @@
 ## Calculate and store the inverse of a matrix
 ## Usage: 
-## > d1 <- makeCacheMatrix2(rbind(c(1, -1/2), c(-1/2, 1)))
+## > d1 <- makeCacheMatrix(rbind(c(1, -1/2), c(-1/2, 1)))
 ## > cacheSolve(d1)
 
 ## Create a matrix object that can cache its inverse
